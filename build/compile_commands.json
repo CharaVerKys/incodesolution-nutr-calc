@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/charaverk/verk/build",
-  "command": "/usr/bin/clang++-19 -I/home/charaverk/verk/src -g -o CMakeFiles/diet.elf.dir/src/main.cpp.o -c /home/charaverk/verk/src/main.cpp",
-  "file": "/home/charaverk/verk/src/main.cpp"
-}
-]
