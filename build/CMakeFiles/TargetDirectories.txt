@@ -1,0 +1,3 @@
+/home/charaverk/verk/build/CMakeFiles/diet.elf.dir
+/home/charaverk/verk/build/CMakeFiles/edit_cache.dir
+/home/charaverk/verk/build/CMakeFiles/rebuild_cache.dir
